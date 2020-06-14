@@ -60,3 +60,12 @@ body{
     bottom: 0px; 
     width:100%;
 }
+@media  screen and (max-width: 600px) {
+   .title{
+       width:90%;
+   }
+   .main{
+       width:90%;
+   }
+
+  }
